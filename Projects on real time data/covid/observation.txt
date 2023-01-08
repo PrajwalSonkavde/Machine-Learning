@@ -1,0 +1,26 @@
+observations state with all other features
+	-> highest active cases = kerala
+	-> highest positive cases = maharastra
+	-> highest cured cases = maharastra
+	-> highest death cases = maharastra
+	-> highest new active cases = kerala
+	-> highest new positive cases = maharastra
+	-> highest new cured cases = maharastra
+	-> highest new death cases = maharastra
+	-> highest actual death in 24 hour = maharastra and uttar pradesh
+
+kerala , up , maharastra
+	-> highest active cases = 1st kerala , 8 place is up , 3rd is maharastra 
+	-> highest positive cases = 1st maharastra , 2nd kerala , 6th up
+	-> highest cured cases = 1st maharastra , 2nd kerala , 6th up
+	-> highest death cases = 1st maharastra , 2nd kerala , 6th up
+	-> highest new active cases = 1st kerala , 3rd is kerala , up has ignorable 
+	-> highest new positive cases = 1st maharastra , 2nd kerala , 6th up
+	-> highest new cured cases = 1st maharastra, 2nd kerala , 5th up
+	-> highest new death cases = 1st maharastra,2nd kerala , 6th up
+	-> highest actual death in 24 hour = only ocuured maharastra and uttar pradesh and both are equal
+
+
+maharastra is taking number one place for cases and deaths 
+
+note : it is updating every particular interval so it should be automated , automation can be done in aws , any other ml tools
